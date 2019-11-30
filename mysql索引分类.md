@@ -27,7 +27,7 @@ A事务执行的update语句会对B事务不可见，但是如果A事务执行�
 
 
 接下来，我们验证一下这几种隔离级别出现的问题，首先，我们来设置一下隔离级别
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](pic/image.png)
 
 可能用到的命令：
 查询当前会话的事务隔离级别
